@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+work/
+qa/
+dist/
+*.log
+*.rar
+*.exe
+*.dmg
+*.pkg
+.env
+.env.*

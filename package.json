@@ -1,0 +1,12 @@
+{
+  "name": "mac2word-formulas",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Offline display-preview repair for source-matched legacy Word equation objects",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "playwright": "1.62.1"
+  }
+}

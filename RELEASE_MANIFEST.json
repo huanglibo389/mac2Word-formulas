@@ -1,0 +1,105 @@
+{
+  "display_title": "mac2Word公式",
+  "publication_status": "VERIFIED_RELEASE_PACKAGE",
+  "installer_included": false,
+  "unit_tests_passed": 17,
+  "unchanged_skill_files": 12,
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 108,
+      "sha256": "81ce79e40798170d8a197b853f0c030ffc1e600cc900ae98fe628709f2561cd1"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6211,
+      "sha256": "49665934b6c331bf10dceb68d0b3bcf709c5308365d084a26a82f81a3dd24298"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "bytes": 1246,
+      "sha256": "59f019097268f6f2b1afb1d04d51fe82e29a3bc3cad173969fc6f8e65e2b4e50"
+    },
+    {
+      "path": "package.json",
+      "bytes": 265,
+      "sha256": "2ee815d291aa71368650c2718719aff35123e555f72ed5e5f9807f388447a304"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 94,
+      "sha256": "ae1c70ee4bea20453e585009550e83f3ceb9259fc88b71d3db29cdb9658a8740"
+    },
+    {
+      "path": "skills/zhi-word-gongshi/SKILL.md",
+      "bytes": 6768,
+      "sha256": "73b12d1023d4e0e2b7fddad788f3ab8f4bcaed4bff22a18ada089bcff494eb1f"
+    },
+    {
+      "path": "skills/zhi-word-gongshi/agents/openai.yaml",
+      "bytes": 349,
+      "sha256": "45203f520df9816713f3199b5dc49f95e97a763e0d825f8746f06f4133c17207"
+    },
+    {
+      "path": "skills/zhi-word-gongshi/references/authoring-and-acceptance.md",
+      "bytes": 3670,
+      "sha256": "e674a1fcd4a31fe9bb0cbb7c76135eab85adfb7f6db4ab0ce0e9da0adddbb3dc"
+    },
+    {
+      "path": "skills/zhi-word-gongshi/references/legacy-repair.md",
+      "bytes": 7340,
+      "sha256": "1b7334f0c72bdb380416962d966bc5399e8f255dba17932c56974dfacfbec39b"
+    },
+    {
+      "path": "skills/zhi-word-gongshi/references/reference-optimization.md",
+      "bytes": 3804,
+      "sha256": "d3a82b16efd756c0e92cb016260c8d68c8b4bedf01a2d845d55511b8afd8e56c"
+    },
+    {
+      "path": "skills/zhi-word-gongshi/references/verified-case.md",
+      "bytes": 3784,
+      "sha256": "bb5c2181c42aa2e5e314b6c2994b0b2eda1d7e1f65a3e20becc502a5e26fd7b6"
+    },
+    {
+      "path": "skills/zhi-word-gongshi/scripts/legacy_equations.py",
+      "bytes": 30147,
+      "sha256": "b865d611e2a6efbb5b32f948286ef4ffe8b9fe66f319bbb81aac61827428dc6f"
+    },
+    {
+      "path": "skills/zhi-word-gongshi/scripts/render_preserving_ole.py",
+      "bytes": 1665,
+      "sha256": "d6a31dfdb8eaec6c73baf13071abd8d212a93ffa0723bd18dacd754513a74f56"
+    },
+    {
+      "path": "skills/zhi-word-gongshi/scripts/render_previews.cjs",
+      "bytes": 10044,
+      "sha256": "9d2a29a7532a03bcaea29b7214e7642051d6a2b126b3591c79880c5ad8d6a3f4"
+    },
+    {
+      "path": "skills/zhi-word-gongshi/tests/check_preview_output.py",
+      "bytes": 4246,
+      "sha256": "c003e18cb9a48c411981947a2c2390559b06285f1f776d03671719af84df624f"
+    },
+    {
+      "path": "skills/zhi-word-gongshi/tests/test_cache_safety.py",
+      "bytes": 6056,
+      "sha256": "5498a61b8cb2cdf1f2040a1be9c7bbf2ec593c9472e564adc7bdb3d0ad7f9412"
+    },
+    {
+      "path": "skills/zhi-word-gongshi/tests/test_equation_pairing.py",
+      "bytes": 4546,
+      "sha256": "5c9b0505f37b6e5a2ca753aa7655861a6bd66f89a56bcbd28ec363b9faa96513"
+    },
+    {
+      "path": "templates/20261006--两道题解答_公式后方框修复版.docx",
+      "bytes": 1521218,
+      "sha256": "47bc4c70406757acacd915f7433f374dba02eb7997351a583390fabf3de7b388"
+    },
+    {
+      "path": "templates/README.md",
+      "bytes": 1140,
+      "sha256": "bed91caf8c9aed254e609ed3b6a8bb3261022749b4b317d0eb79042910bb3446"
+    }
+  ],
+  "repository": "https://github.com/huanglibo389/mac2Word-formulas"
+}
