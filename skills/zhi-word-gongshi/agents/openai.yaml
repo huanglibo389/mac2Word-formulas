@@ -1,0 +1,6 @@
+interface:
+  display_name: "制word公式"
+  short_description: "制作、修复或参照旧版优化 Word 数学公式，保留原编辑数据并核验显示"
+  default_prompt: "用 $zhi-word-gongshi 制作或修复这份带数学公式的 Word，核对公式、保留编辑数据并逐页检查显示。"
+policy:
+  allow_implicit_invocation: true
