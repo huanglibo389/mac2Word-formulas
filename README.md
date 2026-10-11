@@ -19,6 +19,7 @@
 
 ```text
 README.md
+LICENSE
 requirements.txt
 package.json
 THIRD_PARTY_NOTICES.md
@@ -119,4 +120,8 @@ PYTHONDONTWRITEBYTECODE=1 python3 -m unittest discover \
 
 本项目不附带 MathType 商业安装包、注册码或激活工具。获取软件请访问 [MathType 官方网站](https://www.wiris.com/en/mathtype/)，并按 [官方许可说明](https://docs.wiris.com/en_US/mathtype-eula) 使用。这里不承诺官方页面提供 6.8 旧版下载。
 
-公开展示不等于已经授予开源许可。当前尚未选定项目许可证；第三方软件、字体及样例中可能涉及的第三方内容也不因本项目公开而改变权利归属。详见 [第三方与样例说明](THIRD_PARTY_NOTICES.md)。
+## 开源许可证
+
+本项目的原创代码、skill 与原创说明文档采用 [MIT 许可证](LICENSE)，版权署名为 `Copyright (c) 2026 huanglibo389`。使用、修改或再分发这些材料时，须保留许可证中的版权声明与许可声明。
+
+MIT 许可证不改变第三方软件、字体和其他第三方材料的许可。`templates/` 中的 Word 成品样例不纳入本项目的 MIT 授权范围；其中题目、图示、引文等内容仍保留原有权利。详见 [第三方与样例说明](THIRD_PARTY_NOTICES.md)。

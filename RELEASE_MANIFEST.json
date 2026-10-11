@@ -1,10 +1,18 @@
 {
   "display_title": "mac2Word公式",
   "publication_status": "VERIFIED_RELEASE_PACKAGE",
+  "project_license": "MIT",
+  "license_copyright": "Copyright (c) 2026 huanglibo389",
+  "word_sample_license": "excluded from project MIT license; original rights retained",
   "installer_included": false,
   "unit_tests_passed": 17,
   "unchanged_skill_files": 12,
   "files": [
+    {
+      "path": "LICENSE",
+      "bytes": 1069,
+      "sha256": "65c995cfca6b2f2ea296791bd12c5d5dae95f55c26b37ecde2ee7c5e60a25a9b"
+    },
     {
       "path": ".gitignore",
       "bytes": 108,
@@ -12,18 +20,18 @@
     },
     {
       "path": "README.md",
-      "bytes": 6211,
-      "sha256": "49665934b6c331bf10dceb68d0b3bcf709c5308365d084a26a82f81a3dd24298"
+      "bytes": 6505,
+      "sha256": "fec101746a67de8c19d515a88dfc0d34e3e007abcbe76955ad3febdba5e2fc7a"
     },
     {
       "path": "THIRD_PARTY_NOTICES.md",
-      "bytes": 1246,
-      "sha256": "59f019097268f6f2b1afb1d04d51fe82e29a3bc3cad173969fc6f8e65e2b4e50"
+      "bytes": 1274,
+      "sha256": "a3966aa611922de77d0f68a01e2daa23487cb24dfe89bfd91627603bf1c85d3b"
     },
     {
       "path": "package.json",
-      "bytes": 265,
-      "sha256": "2ee815d291aa71368650c2718719aff35123e555f72ed5e5f9807f388447a304"
+      "bytes": 285,
+      "sha256": "510782b9acf49268661f917c4ae10a7f0f4d6a9fd2f35ab368880cf4f5e48cf2"
     },
     {
       "path": "requirements.txt",
@@ -97,8 +105,8 @@
     },
     {
       "path": "templates/README.md",
-      "bytes": 1140,
-      "sha256": "bed91caf8c9aed254e609ed3b6a8bb3261022749b4b317d0eb79042910bb3446"
+      "bytes": 1264,
+      "sha256": "58eba65e3307544101c69a8eba78a334735b5783aff8dbda4fc348a06e2645cc"
     }
   ],
   "repository": "https://github.com/huanglibo389/mac2Word-formulas"

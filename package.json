@@ -1,6 +1,7 @@
 {
   "name": "mac2word-formulas",
   "version": "0.1.0",
+  "license": "MIT",
   "private": true,
   "description": "Offline display-preview repair for source-matched legacy Word equation objects",
   "engines": {
